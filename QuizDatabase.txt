@@ -1,3 +1,2 @@
-OOP,Use this,2,22BCE308,1
-Maths,CT Maths,3,22BCE308,2
-Maths,DemoMathsNatha,2,22BCE308,2
+OOP,Mid Terms OOP,3,22BCE308,2,22BCE305,1
+Maths,Mid Term Maths,2,22BCE308,2
